@@ -1,0 +1,9 @@
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\bin\Debug\SimpleCalculatorForm.exe.config
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\bin\Debug\SimpleCalculatorForm.exe
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\bin\Debug\SimpleCalculatorForm.pdb
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\obj\Debug\SimpleCalculatorForm.Form1.resources
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\obj\Debug\SimpleCalculatorForm.Properties.Resources.resources
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\obj\Debug\SimpleCalculatorForm.csproj.GenerateResource.cache
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\obj\Debug\SimpleCalculatorForm.csproj.CoreCompileInputs.cache
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\obj\Debug\SimpleCalculatorForm.exe
+C:\Users\Wayne\source\repos\SimpleCalculatorForm\SimpleCalculatorForm\obj\Debug\SimpleCalculatorForm.pdb
